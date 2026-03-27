@@ -34,3 +34,6 @@
 [2026-03-27T14:56:29.336Z] INFO: ::1 - - [27/Mar/2026:14:56:29 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 [2026-03-27T14:57:48.250Z] INFO: User Service running on http://localhost:3001
 [2026-03-27T14:57:48.253Z] INFO: Swagger docs at http://localhost:3001/api-docs
+[2026-03-27T14:58:14.538Z] INFO: --> REQUEST: GET /users | Body: {}
+[2026-03-27T14:58:14.541Z] INFO: <-- RESPONSE: [200] | Body: [{"id":1,"name":"string","email":"string"},{"id":2,"name":"string","email":"string"},{"id":3,"name":"string","email":"string"},{"id":4,"name":"string","email":"string"},{"id":5,"name":"string","email":"string"},{"id":6,"name":"string","email":"string"}]
+[2026-03-27T14:58:14.545Z] INFO: ::1 - - [27/Mar/2026:14:58:14 +0000] "GET /users HTTP/1.1" 200 253 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7920"
