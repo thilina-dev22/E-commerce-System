@@ -1,0 +1,90 @@
+[2026-03-27T14:44:48.225Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:46:48.400Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:47:08.717Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:47:33.512Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs HTTP/1.1" 301 158 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.532Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/ HTTP/1.1" 200 3106 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.561Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 4542 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.575Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 200 178890 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.585Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 200 251800 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.618Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 200 1526890 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:33.839Z] INFO: ::1 - - [27/Mar/2026:14:47:33 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 200 628 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:46.887Z] INFO: ::1 - - [27/Mar/2026:14:47:46 +0000] "POST /users HTTP/1.1" 201 41 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:48.101Z] INFO: ::1 - - [27/Mar/2026:14:47:48 +0000] "POST /users HTTP/1.1" 201 41 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:55.665Z] INFO: ::1 - - [27/Mar/2026:14:47:55 +0000] "GET /users HTTP/1.1" 200 127 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:56.616Z] INFO: ::1 - - [27/Mar/2026:14:47:56 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:47:59.140Z] INFO: ::1 - - [27/Mar/2026:14:47:59 +0000] "POST /users HTTP/1.1" 201 41 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:05.589Z] INFO: ::1 - - [27/Mar/2026:14:48:05 +0000] "GET /users HTTP/1.1" 200 169 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:05.965Z] INFO: ::1 - - [27/Mar/2026:14:48:05 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:06.115Z] INFO: ::1 - - [27/Mar/2026:14:48:06 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:06.277Z] INFO: ::1 - - [27/Mar/2026:14:48:06 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:31.903Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:48:55.494Z] INFO: ::1 - - [27/Mar/2026:14:48:55 +0000] "GET /orders HTTP/1.1" 200 53 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:56.853Z] INFO: ::1 - - [27/Mar/2026:14:48:56 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:07.617Z] INFO: ::1 - - [27/Mar/2026:14:49:07 +0000] "POST /orders HTTP/1.1" 201 51 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:11.047Z] INFO: ::1 - - [27/Mar/2026:14:49:11 +0000] "POST /orders HTTP/1.1" 201 51 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.179Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 200 157 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.588Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.745Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:50:15.925Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:51:08.374Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:51:27.474Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:27.505Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:27.513Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 200 5438 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:27.518Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:27.520Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:27.735Z] INFO: ::1 - - [27/Mar/2026:14:51:27 +0000] "GET /api-docs/favicon-32x32.png HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:32.377Z] INFO: ::1 - - [27/Mar/2026:14:51:32 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:44.195Z] INFO: ::1 - - [27/Mar/2026:14:51:44 +0000] "POST /users HTTP/1.1" 201 41 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:45.304Z] INFO: ::1 - - [27/Mar/2026:14:51:45 +0000] "POST /users HTTP/1.1" 201 41 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:50.615Z] INFO: ::1 - - [27/Mar/2026:14:51:50 +0000] "GET /users HTTP/1.1" 200 253 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:51:58.448Z] INFO: ::1 - - [27/Mar/2026:14:51:58 +0000] "GET /products HTTP/1.1" 200 36 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:52:04.714Z] INFO: ::1 - - [27/Mar/2026:14:52:04 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:53:20.850Z] INFO: API Gateway is running on http://localhost:3000
+[2026-03-27T14:53:27.293Z] INFO: --> GATEWAY REQUEST : GET /users
+[2026-03-27T14:53:27.332Z] INFO: <-- GATEWAY RESPONSE: [200] GET /users
+[2026-03-27T14:53:27.333Z] INFO: ::1 - - [27/Mar/2026:14:53:27 +0000] "GET /users HTTP/1.1" 200 253 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7920"
+[2026-03-27T14:55:18.989Z] INFO: --> GATEWAY REQUEST : GET /users
+[2026-03-27T14:55:19.005Z] INFO: <-- GATEWAY RESPONSE: [200] GET /users
+[2026-03-27T14:55:19.006Z] INFO: ::1 - - [27/Mar/2026:14:55:19 +0000] "GET /users HTTP/1.1" 200 253 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7920"
+[2026-03-27T14:56:23.693Z] INFO: --> GATEWAY REQUEST : GET /api-docs/
+[2026-03-27T14:56:23.704Z] INFO: <-- GATEWAY RESPONSE: [304] GET /
+[2026-03-27T14:56:23.705Z] INFO: ::1 - - [27/Mar/2026:14:56:23 +0000] "GET /api-docs/ HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:23.747Z] INFO: --> GATEWAY REQUEST : GET /api-docs/swagger-ui.css
+[2026-03-27T14:56:23.757Z] INFO: <-- GATEWAY RESPONSE: [304] GET /swagger-ui.css
+[2026-03-27T14:56:23.758Z] INFO: ::1 - - [27/Mar/2026:14:56:23 +0000] "GET /api-docs/swagger-ui.css HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:23.760Z] INFO: --> GATEWAY REQUEST : GET /api-docs/swagger-ui-bundle.js
+[2026-03-27T14:56:23.765Z] INFO: <-- GATEWAY RESPONSE: [304] GET /swagger-ui-bundle.js
+[2026-03-27T14:56:23.767Z] INFO: ::1 - - [27/Mar/2026:14:56:23 +0000] "GET /api-docs/swagger-ui-bundle.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:23.768Z] INFO: --> GATEWAY REQUEST : GET /api-docs/swagger-ui-standalone-preset.js
+[2026-03-27T14:56:23.769Z] INFO: --> GATEWAY REQUEST : GET /api-docs/swagger-ui-init.js
+[2026-03-27T14:56:23.772Z] INFO: <-- GATEWAY RESPONSE: [304] GET /swagger-ui-init.js
+[2026-03-27T14:56:23.773Z] INFO: ::1 - - [27/Mar/2026:14:56:23 +0000] "GET /api-docs/swagger-ui-init.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:23.777Z] INFO: <-- GATEWAY RESPONSE: [304] GET /swagger-ui-standalone-preset.js
+[2026-03-27T14:56:23.778Z] INFO: ::1 - - [27/Mar/2026:14:56:23 +0000] "GET /api-docs/swagger-ui-standalone-preset.js HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:28.226Z] INFO: --> GATEWAY REQUEST : GET /users
+[2026-03-27T14:56:28.238Z] INFO: <-- GATEWAY RESPONSE: [304] GET /users
+[2026-03-27T14:56:28.239Z] INFO: ::1 - - [27/Mar/2026:14:56:28 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:29.325Z] INFO: --> GATEWAY REQUEST : GET /users
+[2026-03-27T14:56:29.336Z] INFO: <-- GATEWAY RESPONSE: [304] GET /users
+[2026-03-27T14:56:29.337Z] INFO: ::1 - - [27/Mar/2026:14:56:29 +0000] "GET /users HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:35.620Z] INFO: --> GATEWAY REQUEST : GET /products
+[2026-03-27T14:56:35.650Z] INFO: <-- GATEWAY RESPONSE: [304] GET /products
+[2026-03-27T14:56:35.654Z] INFO: ::1 - - [27/Mar/2026:14:56:35 +0000] "GET /products HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:36.638Z] INFO: --> GATEWAY REQUEST : GET /products
+[2026-03-27T14:56:36.666Z] INFO: <-- GATEWAY RESPONSE: [304] GET /products
+[2026-03-27T14:56:36.671Z] INFO: ::1 - - [27/Mar/2026:14:56:36 +0000] "GET /products HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:41.657Z] INFO: --> GATEWAY REQUEST : GET /orders
+[2026-03-27T14:56:41.685Z] INFO: <-- GATEWAY RESPONSE: [304] GET /orders
+[2026-03-27T14:56:41.686Z] INFO: ::1 - - [27/Mar/2026:14:56:41 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:42.669Z] INFO: --> GATEWAY REQUEST : GET /orders
+[2026-03-27T14:56:42.683Z] INFO: <-- GATEWAY RESPONSE: [304] GET /orders
+[2026-03-27T14:56:42.686Z] INFO: ::1 - - [27/Mar/2026:14:56:42 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:48.915Z] INFO: --> GATEWAY REQUEST : GET /cart
+[2026-03-27T14:56:48.944Z] INFO: <-- GATEWAY RESPONSE: [200] GET /cart
+[2026-03-27T14:56:48.946Z] INFO: ::1 - - [27/Mar/2026:14:56:48 +0000] "GET /cart HTTP/1.1" 200 2 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:49.961Z] INFO: --> GATEWAY REQUEST : GET /cart
+[2026-03-27T14:56:49.987Z] INFO: <-- GATEWAY RESPONSE: [304] GET /cart
+[2026-03-27T14:56:49.988Z] INFO: ::1 - - [27/Mar/2026:14:56:49 +0000] "GET /cart HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:58:14.533Z] INFO: --> GATEWAY REQUEST : GET /users
+[2026-03-27T14:58:14.545Z] INFO: <-- GATEWAY RESPONSE: [200] GET /users
+[2026-03-27T14:58:14.545Z] INFO: ::1 - - [27/Mar/2026:14:58:14 +0000] "GET /users HTTP/1.1" 200 253 "-" "Mozilla/5.0 (Windows NT; Windows NT 10.0; en-US) WindowsPowerShell/5.1.26100.7920"

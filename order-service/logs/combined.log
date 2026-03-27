@@ -1,0 +1,24 @@
+[2026-03-27T14:44:48.812Z] INFO: Order Service running on http://localhost:3003
+[2026-03-27T14:44:48.814Z] INFO: Swagger docs at http://localhost:3003/api-docs
+[2026-03-27T14:45:07.526Z] INFO: Order Service running on http://localhost:3003
+[2026-03-27T14:45:07.529Z] INFO: Swagger docs at http://localhost:3003/api-docs
+[2026-03-27T14:48:55.475Z] INFO: ::1 - - [27/Mar/2026:14:48:55 +0000] "GET /orders HTTP/1.1" 200 53 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:48:56.852Z] INFO: ::1 - - [27/Mar/2026:14:48:56 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:07.615Z] INFO: ::1 - - [27/Mar/2026:14:49:07 +0000] "POST /orders HTTP/1.1" 201 51 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:11.046Z] INFO: ::1 - - [27/Mar/2026:14:49:11 +0000] "POST /orders HTTP/1.1" 201 51 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.176Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 200 157 "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.588Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:49:14.746Z] INFO: ::1 - - [27/Mar/2026:14:49:14 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:52:04.713Z] INFO: ::1 - - [27/Mar/2026:14:52:04 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:53:21.191Z] INFO: Order Service running on http://localhost:3003
+[2026-03-27T14:53:21.194Z] INFO: Swagger docs at http://localhost:3003/api-docs
+[2026-03-27T14:55:11.432Z] INFO: Order Service running on http://localhost:3003
+[2026-03-27T14:55:11.434Z] INFO: Swagger docs at http://localhost:3003/api-docs
+[2026-03-27T14:56:41.671Z] INFO: --> REQUEST: GET /orders | Body: {}
+[2026-03-27T14:56:41.680Z] INFO: <-- RESPONSE: [200] | Body: [{"id":1,"userId":0,"productId":0,"status":"string"},{"id":2,"userId":0,"productId":0,"status":"string"},{"id":3,"userId":0,"productId":0,"status":"string"}]
+[2026-03-27T14:56:41.689Z] INFO: ::1 - - [27/Mar/2026:14:56:41 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:56:42.675Z] INFO: --> REQUEST: GET /orders | Body: {}
+[2026-03-27T14:56:42.680Z] INFO: <-- RESPONSE: [200] | Body: [{"id":1,"userId":0,"productId":0,"status":"string"},{"id":2,"userId":0,"productId":0,"status":"string"},{"id":3,"userId":0,"productId":0,"status":"string"}]
+[2026-03-27T14:56:42.683Z] INFO: ::1 - - [27/Mar/2026:14:56:42 +0000] "GET /orders HTTP/1.1" 304 - "http://localhost:3000/api-docs/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+[2026-03-27T14:57:51.143Z] INFO: Order Service running on http://localhost:3003
+[2026-03-27T14:57:51.145Z] INFO: Swagger docs at http://localhost:3003/api-docs
